@@ -1,0 +1,13 @@
+package GIT;
+
+public class GITCommands {
+	public static void main(String[] args) {
+		String n="SAURAV";
+		for(int s=n.length() ; s>=n.length(); s-- ) {
+			System.out.println(s);
+			
+		}
+		
+
+}
+}
